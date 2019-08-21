@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import UIKit
 
 public enum FBAnnotationClusterDisplayMode {
 	case SolidColor(sideLength: CGFloat, color: UIColor)
